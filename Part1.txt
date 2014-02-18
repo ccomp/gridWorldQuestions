@@ -1,0 +1,33 @@
+Part 1 Set 1:
+
+1. No. A bug will just move to the area before it if the cell exists and is vacant or if there is a flower in the cell.
+
+2. A bug endeavors to make headway.
+
+3. The point when a bug can't move, it turns 45 degrees to the right.
+
+4. A bug leaves a blossom in its old unit when it moves to another cell, it is in the shade of the bug.
+
+5. Assuming that a bug is confronting the edge and it wishes to act, it will turn forty-five degrees to the right. when told to act once more, it will turn an alternate forty-five degrees to the right. Assuming that a bug is confronting the edge and it is advised to move, it will evacuate itself from the framework and a blossom will be left. 
+
+6. The bug turns 45 degrees.
+
+7. No
+
+8. The blossom grows darker until it turns 50 shades grayer.
+
+9. Rocks possess no other behavior other than being a rock.
+
+10. No. Only one at a time.
+
+-------------------------------------------------------
+
+Set 2:
+
+1. N, NE, E, SE, S, SW, W, NW, N
+
+2. A bug can be moved to a valid location using moveTo, the setDirection method or turn method must be used to change a bug's direction. If one decides that it is a good idea to place a bug outside the grid, an IllegalArgumentException is thrown.
+
+3. setColor.
+
+4. The rock 'squishes' the bug. The bug disappears.
